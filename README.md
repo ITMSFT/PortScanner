@@ -21,7 +21,7 @@ The `.exe` version of the script is also available for use on systems without Py
 ### Python Version
 1. **Clone the repository**:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ITMSFT/PortScanner
    cd port-scanner-script
    ```
 
